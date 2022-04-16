@@ -43,7 +43,7 @@
     "version": "1.0.0",
     "author": "abugenius, MCreator",
     "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "license": "GNU General Public License version 3 (GPLv3)",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],

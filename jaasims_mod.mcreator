@@ -1,0 +1,59 @@
+{
+  "mod_elements": [
+    {
+      "name": "InfinityBlade",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinity_blade"
+    },
+    {
+      "name": "Gfhkjhgs",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gfhkjhgs"
+    },
+    {
+      "name": "Mbb",
+      "type": "rangeditem",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mbb"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.jaasims_mod.infinity_blade": "Infinity Blade",
+      "item.jaasims_mod.mbb": "Mbb"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "jaasims_mod",
+    "modName": "jaasim\u0027s mod",
+    "version": "1.0.0",
+    "author": "abugenius, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.jaasimsmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
